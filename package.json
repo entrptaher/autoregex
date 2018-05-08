@@ -1,0 +1,8 @@
+{
+  "name": "autoregex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KHTamim/Automated-Regular-Expression-Generation",
+  "author": "entrptaher@gmail.com <entrptaher@gmail.com>",
+  "license": "MIT"
+}
